@@ -1,0 +1,19 @@
+#quizstatus{
+    text-align: center;
+    color: rgb(119, 35, 197);
+    padding-top: 100px;
+}
+
+#quiz{
+    border: 3px solid  black;
+    /* text-align: center; */
+    padding: 20px;
+    width: 700px;
+    margin: auto;
+    justify-content: center;
+    background-color: rgb(236, 227, 245);
+}
+
+#time{
+    text-align: center;
+}
